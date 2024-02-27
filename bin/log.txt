@@ -1,0 +1,5 @@
+Detected memory leaks!
+Dumping objects ->
+{155} normal block at 0x0000023013D0A450, 4 bytes long.
+ Data: <    > CD CD CD CD 
+Object dump complete.

@@ -1,0 +1,16 @@
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\bin\x64\Debug\Radio_OOP_Kursovay.exe.config
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\bin\x64\Debug\Radio_OOP_Kursovay.exe
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\bin\x64\Debug\Radio_OOP_Kursovay.pdb
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.Properties.Resources.resources
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.csproj.GenerateResource.cache
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.csproj.CoreCompileInputs.cache
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.exe
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.pdb
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\bin\Radio_OOP_Kursovay.exe.config
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\bin\Radio_OOP_Kursovay.exe
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\bin\Radio_OOP_Kursovay.pdb
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.Form1.resources
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.Form2.resources
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.Form3.resources
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.csproj.AssemblyReference.cache
+C:\Users\kondr\source\repos\Radio_OOP_Kursovay\Radio_OOP_Kursovay\obj\x64\Debug\Radio_OOP_Kursovay.Form4.resources
